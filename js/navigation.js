@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("#navigation").load("../common/elements/navigation.html");
+    $("#navigation").load("common/elements/navigation.html");
 });
